@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "config.js": "^0.1.0",
-    "firebase-tools": "^7.16.2",
+    "firebase-tools": "^13.7.4",
     "terser": "^4.6.6"
   }
 }

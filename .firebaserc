@@ -1,7 +1,9 @@
 {
   "projects": {
     "default": "fir-de738",
-    "demo": "fir-de738"
+    "demo": "fir-de738",
+    "idk": "fir-de738",
+    "A": "fir-de738"
   },
   "targets": {},
   "etags": {}
